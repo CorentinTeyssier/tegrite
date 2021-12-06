@@ -397,12 +397,12 @@ header a {
   border: none;
 }
 header a:hover {
-  color: #5ACC38;
-  border-color: #5ACC38;
+  color: #7DA661;
+  border-color: #7DA661;
 }
 header a:active, header a:focus {
-  color: #5ACC38;
-  border-color: #5ACC38;
+  color: #7DA661;
+  border-color: #7DA661;
 }
 header nav {
   text-align: right;
